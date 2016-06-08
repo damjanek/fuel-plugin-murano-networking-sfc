@@ -1,1 +1,1 @@
-# fuel-plugin-murano-sfc
+# fuel-plugin-murano-networking-sfc
